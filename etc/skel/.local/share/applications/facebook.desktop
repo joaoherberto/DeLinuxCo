@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Facebook
+Comment=Facebook (Ice SSB)
+Exec=chromium-browser --app=https://www.facebook.com --class=ICE-SSB-facebook --user-data-dir=/home/$USER/.local/share/ice/profiles/facebook
+X-ICE-SSB-Profile=facebook
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/icons/delinuxco/facebook.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=ICE-SSB-facebook
+StartupNotify=true

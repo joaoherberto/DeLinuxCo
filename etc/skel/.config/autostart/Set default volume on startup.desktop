@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=pactl set-sink-volume @DEFAULT_SINK@ 30%
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_US]=Set default volume on startup
+Comment[en_US]=Used to adjust the default start volume
+X-GNOME-Autostart-Delay=0

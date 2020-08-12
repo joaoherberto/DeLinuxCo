@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Twitter
+Comment=Twitter (Ice SSB)
+Exec=chromium-browser --app=https://twitter.com --class=ICE-SSB-twitter --user-data-dir=/home/$USER/.local/share/ice/profiles/twitter
+X-ICE-SSB-Profile=twitter
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/icons/delinuxco/twitter.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=ICE-SSB-twitter
+StartupNotify=true

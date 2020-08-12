@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Hulu
+Comment=Hulu (Ice SSB)
+Exec=chromium-browser --app=https://www.hulu.com --class=ICE-SSB-hulu --user-data-dir=/home/$USER/.local/share/ice/profiles/hulu
+X-ICE-SSB-Profile=hulu
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/icons/delinuxco/hulu.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=ICE-SSB-hulu
+StartupNotify=true

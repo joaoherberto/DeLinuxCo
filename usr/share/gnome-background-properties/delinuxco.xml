@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+<wallpaper deleted="false">
+<name>DeLinuxCo_Pico2</name>
+<filename>/usr/share/backgrounds/delinuxco/DeLinuxCo_Pico2.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>DeLinuxCo_Pico1</name>
+<filename>/usr/share/backgrounds/delinuxco/DeLinuxCo_Pico1.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Ocean-1080</name>
+<filename>/usr/share/backgrounds/delinuxco/ocean-1080.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Ocean-1440</name>
+<filename>/usr/share/backgrounds/delinuxco/ocean-1440.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Ocean-03840</name>
+<filename>/usr/share/backgrounds/delinuxco/ocean-3840.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>DeLinuxCo-Teal</name>
+<filename>/usr/share/backgrounds/delinuxco/delinuxco-teal.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+</wallpapers>
